@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alexshamblin777
+- 👋 Hi, I’m @alex77-7
 - 👀 I’m interested in photography, video games, music
 - 🌱 I’m currently learning Data Science @ Bloom Institute of Technology
 - 💞️ I’m looking to collaborate on any Sprints in Data Science course
